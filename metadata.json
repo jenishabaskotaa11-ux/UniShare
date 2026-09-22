@@ -1,0 +1,6 @@
+{
+  "name": "UniShare",
+  "description": "University peer-to-peer platform for borrowing, renting, pre-booking, and sharing college items among verified students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
